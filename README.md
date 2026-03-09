@@ -8,3 +8,4 @@ Conditional Loops: https://youtu.be/trxoBs-_vU4
 If=Else Statements : https://youtu.be/DoLr6_YLU40
 Nested If/Else Statements: https://youtu.be/FWpzOzVzZ2U
 Compound Conditionals : https://youtu.be/vg7JYgZM9Lk
+Abstraction Video: https://youtu.be/BqDWwYgQyFw
