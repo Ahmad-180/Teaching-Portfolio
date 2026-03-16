@@ -9,4 +9,4 @@ If=Else Statements : https://youtu.be/DoLr6_YLU40
 Nested If/Else Statements: https://youtu.be/FWpzOzVzZ2U
 Compound Conditionals : https://youtu.be/vg7JYgZM9Lk
 Abstraction Video: https://youtu.be/BqDWwYgQyFw
-Lists:
+Lists: https://youtu.be/0ijwix2DAQA
